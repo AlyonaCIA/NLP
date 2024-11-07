@@ -1,4 +1,7 @@
-requests
 pandas
 xmltodict
 matplotlib
+torch
+pretty_midi
+numpy
+torch
